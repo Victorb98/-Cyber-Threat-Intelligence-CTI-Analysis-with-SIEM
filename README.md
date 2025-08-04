@@ -1,6 +1,7 @@
 Cyber Threat Intelligence CTI-Analysis-with-SIEM
 This project showcases my CTI skills by analyzing a simulated security incident on a SIEM dashboard. 🎯 I reconstructed an attack timeline from logs, identified Indicators of Compromise (IOCs), and built a threat profile. This demonstrates my ability to turn raw data into actionable intelligence and highlights my hands-on experience. 🕵️‍♂️
 📌 Project: Cyber Threat Intelligence (CTI) Analysis with SIEM
+
 🧠 Summary / What It Does
 This project showcases my ability to perform Cyber Threat Intelligence (CTI) analysis by investigating a simulated security incident within a SIEM (Security Information and Event Management) environment. Using a provided dashboard and a series of logs, I was able to piece together a chain of events, identify key indicators of compromise (IOCs), and build a comprehensive threat profile.
 
