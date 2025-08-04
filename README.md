@@ -9,6 +9,7 @@ This project showcases my ability to perform Cyber Threat Intelligence (CTI) ana
 This project demonstrates a critical skill in modern cybersecurity: the ability to translate raw log data into actionable intelligence.
 
 ⚙️ Tools & Tech
+
 TryHackMe: The platform used for the simulated lab environment.
 
 SIEM Dashboard: A simulated Security Information and Event Management tool for log analysis.
@@ -31,11 +32,12 @@ These images provide a visual walkthrough of the incident, starting with the mai
 <img width="742" height="517" alt="CTI tryhack me SIEM 1  - Copy" src="https://github.com/user-attachments/assets/d3caf07d-58ba-430c-b327-a704143e9a08" />
 
 
-<img width="693" height="417" alt="CTI tryhack me SIEM 2 " src="https://github.com/user-attachments/assets/50b695a7-711c-4909-94e1-b53664338dcc" />
+
 
 
 The image below shows the step-by-step process of analyzing the SIEM alerts to identify the threat. By connecting the log entries, I was able to build a clear timeline of the incident, from the initial phishing email to the final action.
 
+<img width="693" height="417" alt="CTI tryhack me SIEM 2 " src="https://github.com/user-attachments/assets/50b695a7-711c-4909-94e1-b53664338dcc" />
 
 <img width="812" height="356" alt="CTI tryhack me Answering question 1 " src="https://github.com/user-attachments/assets/c619e43d-f982-48b1-8bcc-60b66f9eff3a" />
 
