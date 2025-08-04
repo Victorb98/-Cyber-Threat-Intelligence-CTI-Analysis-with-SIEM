@@ -73,4 +73,5 @@ TryHackMe: The CTI Room - The specific room this project was completed in.
 What is SIEM? A Beginner's Guide - For a foundational understanding of SIEM technology.
 
 🙌 Credits / Acknowledgements
+
 A huge thank you to the creators of the TryHackMe platform for providing such a realistic and educational lab environment.
